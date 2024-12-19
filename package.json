@@ -1,0 +1,13 @@
+{
+  "name": "json-to-csv",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "jtc": "node json-to-csv.js",
+    "ctj": "node csv-to-json.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "type": "module"
+}
